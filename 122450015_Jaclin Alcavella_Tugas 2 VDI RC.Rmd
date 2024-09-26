@@ -1,0 +1,46 @@
+---
+title: "Tugas 2 VDI"
+author: "Jaclin Alcavella"
+date: "2024-09-26"
+output: html_document
+---
+
+## Tugas 2 VDI RC
+
+Jaclin Alcavella (122450015)
+
+Bentuk atau contoh visualisasi yang termasuk ke dalam **Bad Category** yaitu :
+
+1.  **Pie Chart yang memiliki banyak kategori**
+
+    Karena jika pie chat digunakan untuk menyajikan data yang memiliki kategori diatas 5 akan memiliki ukuran yang hampir sama dan sulit untuk membedakan bagian kecil dan ukurannya. Sesuai prinsip pengembangan visualisasi data, kekurangan pie chart adalah :
+
+    -   **Kejelasan** : Bagian kategori yang banyak membuat analisis menjadi sulit terbaca.
+
+    -   **Ketepatan** : Bagian kategori yang banyak membuat perbandingan antar bagian menjadi sulit terbaca dengan benar karena visual yang sulit dibedakan.
+
+    -   **Relevansi** : Bagian kategori yang banyak mayoritas tidak efektif karena tingkat ketelitian yang minim.
+
+    -   **Desain Efektif** : Bagian kategori yang banyak dapat membingungkan proses interpretasi.
+
+2.  **Bar Chart 3 Dimensi**
+
+    Penggunaan visualisasi 3D membuat perspektif baru yang lebih membingungkan, sehingga akan sulit untuk menilai setiap bar.
+
+    -   Kejelasan : Ilusi 3 dimensi biasanya tidak menampilkan ukuran bar sebenarnya
+
+    -   Ketepatan : Ilusi 3 dimensi biasanya sulit dalam mengukur hasil dengan akurat
+
+    -   Relevansi : Ilusi 3 dimensi biasanya tidak menambahkan informasi nilai
+
+    -   Desain Efektif : Ilusi 3 dimensi biasanya menambah hiasan yang tidak diperlukan dan menghancurkan fokus pada data pengukuran
+
+Bentuk atau contoh visualisasi yang termasuk ke dalam **Good Category** yaitu :
+
+1.  **Bar Chart Sederhana**
+
+    Bar Chart menyajikan data secara jelas dan mudah untuk dibandingkan antar setiap kategori. Setiap bar chart yang disajikan merepresentasikan data dengan akurat, sehingga akan mudah untuk dibandingkan ukurannya. Dapat menyajikan data relavan saat dibutuhkan perbandingannya. Desain yang dimiliki sangat sederhana sehingga akan mudah dipahami.
+
+2.  **Line Chart Waktu**
+
+    Line chart menampilkan deret perubahan data setiap waktu secara jelas. Setiap titik saling berhubungan membentuk garis untuk membantu menjelaskan fluktuasi dan pola. Visualisasi yang cukup ideal dengan menampilkan perubshsn nilai seiring waktu. Desain yang dimiliki relaatif sederhana dan terfokus pada deret.
